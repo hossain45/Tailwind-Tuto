@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossain45/Tailwind-Tuto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hossain45/Tailwind-Tuto/issues"
+  },
+  "homepage": "https://github.com/hossain45/Tailwind-Tuto#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
